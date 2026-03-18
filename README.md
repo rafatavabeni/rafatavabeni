@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hamtaro.gif" width="480"/>
+<img src="Hamtaro.gif" width="480"/>
 
 # Rafaela Benitez
 
