@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" width="480"/>
+<img src="hamtaro.gif" width="480"/>
 
 # Rafaela Benitez
 
@@ -11,11 +11,14 @@ Transformando Excel em Python. ⚜️
 
 ---
 
-<img src="https://skillicons.dev/icons?i=python,autocad" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51837?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sienge-0057A8?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Construpoint-FF6B00?style=for-the-badge&logoColor=white"/>
 
 ---
 
