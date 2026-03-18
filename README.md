@@ -1,53 +1,95 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Rafaela%20Benitez&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=Rafaela%20Benitez&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=42" width="100%"/>
 
-## oi, eu sou a Rafaela 👋
+<br/>
 
-Engenheira Civil na UERJ e Técnica em Edificações pelo CEFET/RJ. Estagio na Crescer Incorporadora acompanhando execução de obras. Cresci entre plantas, projetos e planilhas — e descobri que a engenharia que funciona é a que tem dados.
+<table align="center"><tr><td align="center" width="160">
 
-Hoje trabalho com controle de execução, gestão de estoque e automatização. Meu foco é simples: transformar o que hoje faço no Excel à mão em processos com Python.
+<img src="hamster-dev.png" width="140" style="border-radius:12px"/>
+
+</td><td width="24"></td><td valign="middle">
+
+### oi, eu sou a Rafa ✦
+
+Engenheira Civil na **UERJ** e Técnica em Edificações pelo **CEFET/RJ**.  
+Estagio na **Crescer Incorporadora** — execução de obras, controle e dados.
+
+Cresci entre plantas e planilhas.  
+Hoje transformo o que faço no Excel em **processos com Python**.
+
+⚜️ *Escoteira — sempre alerta, sempre pronta*
+
+</td></tr></table>
+
+<br/>
 
 ---
 
-## 🛠️ ferramentas & contexto real
+## ✧ leis escoteiras que me guiam
+
+> Não ficaram no acampamento.
+
+| | Lei | No trabalho |
+|---|---|---|
+| `★` | **Ser digna de confiança** | Dado errado em obra tem consequência real |
+| `✦` | **Sempre pronta** | Improviso com método, nunca de surpresa |
+| `★` | **Ser econômica** | Zero desperdício — de material, tempo e processo |
+| `✦` | **Servir aos outros** | Engenharia é infraestrutura de vida |
+
+---
+
+## 🛠️ ferramentas
 
 | | |
 |---|---|
-| **📊 Excel** | Controle de materiais, custos, acompanhamento — uso diário em obra |
-| **🏗️ Sienge + Construpoint** | Sistemas de gestão que opero no estágio atual |
-| **🐍 Python** | Aprendendo para automatizar o que consome tempo no Excel |
-| **📐 AutoCAD + QGIS** | Projetos técnicos e análise geoespacial |
+| 📊 **Excel** | Controle de materiais, custos e acompanhamento — uso diário em obra |
+| 🐍 **Python** | Aprendendo para automatizar o que consome tempo no Excel |
+| 🏗️ **Sienge · Construpoint** | Sistemas de gestão que opero no estágio |
+| 📐 **AutoCAD · QGIS** | Projetos técnicos e análise geoespacial |
 
 ---
 
-## 📍 por onde passei
+## 📍 experiência
 
-**Crescer Incorporadora** ↳ Estagiária de Engenharia (jan/2026 – agora)  
-RDO, controle de qualidade, gestão de pedidos. *Aprendi: obra não espera.*
+**Crescer Incorporadora** &nbsp;·&nbsp; Estagiária de Engenharia &nbsp;`jan/2026 – hoje`  
+↳ RDO, controle de qualidade, gestão de pedidos. *obra não espera.*
 
-**Progecon Engenharia** ↳ Estagiária de Compras (ago–dez/2024)  
-Cotações, contratos, conferência de materiais. *Aprendi: preço sem prazo não é negócio.*
+**Progecon Engenharia** &nbsp;·&nbsp; Estagiária de Compras &nbsp;`ago–dez/2024`  
+↳ Cotações, contratos, conferência de materiais. *preço sem prazo não é negócio.*
 
-**CET-Rio** ↳ Estagiária (fev–ago/2024)  
-AutoCAD, QGIS, infraestrutura viária. *Aprendi: dado ruim é pior que sem dado.*
+**CET-Rio** &nbsp;·&nbsp; Estagiária &nbsp;`fev–ago/2024`  
+↳ AutoCAD, QGIS, infraestrutura viária. *dado ruim é pior que sem dado.*
 
 ---
 
 ## 🎓 formação
 
-🏗️ Engenharia Civil · UERJ (2025–2030)  
-🏗️ Técnica em Edificações · CEFET/RJ (2022–2024)  
-🌍 Inglês C1 · Cultura Inglesa (concluído 2026)  
+🏗️ Engenharia Civil · **UERJ** (2025–2030) &nbsp;|&nbsp; 🏗️ Técnica em Edificações · **CEFET/RJ** (2022–2024) &nbsp;|&nbsp; 🌍 Inglês C1 · **Cultura Inglesa** (2026)
 
 ---
 
-<div align="center">
+<br/>
 
-**Engenharia sem gestão gera custo. Engenharia com dados gera resultado.**
+<table align="center"><tr><td align="center" width="200">
 
-### 🔗 saiba mais no meu LinkedIn
+<img src="cat-pc.png" width="180"/>
+
+<sub>eu tentando caber em mais um sistema novo</sub>
+
+</td><td width="40"></td><td valign="middle" align="center">
+
+<br/>
+
+*"Engenharia sem gestão gera custo.*  
+*Engenharia com dados gera resultado."*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafaelabenitez) &nbsp; [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:rafatavabeni05@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<br/>
 
-</div>
+</td></tr></table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
